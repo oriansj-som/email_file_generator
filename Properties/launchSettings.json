@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Email_File_generator": {
+      "commandName": "Project",
+      "commandLineArgs": "--to foo@bar.com --from username@bar --cc meh@bar,faz@bar --subject bleh --message-plain \"hello world\\nhowareyou?\" --attach-file example.xlsx --sig-file sig.txt --pickup-folder \"C:\\Users\\oriansj\\source\\repos\\Email_File_generator\\bin\\Debug\\net5.0\""
+    }
+  }
+}
